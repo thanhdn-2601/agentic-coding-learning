@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Node.js v22.x
+- Node.js v24.x
 - Docker (for running Supabase)
 - Yarn v1.22.22 (package manager)
 
