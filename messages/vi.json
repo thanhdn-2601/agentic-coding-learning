@@ -1,0 +1,158 @@
+{
+  "languageSelector": {
+    "selectLanguage": "Chọn ngôn ngữ",
+    "options": "Tùy chọn ngôn ngữ",
+    "vi": "Tiếng Việt",
+    "en": "English"
+  },
+  "login": {
+    "hero_line1": "Bắt đầu hành trình của bạn cùng <b>SAA 2025</b>.",
+    "hero_line2": "Đăng nhập để khám phá!",
+    "button": "ĐĂNG NHẬP với Google",
+    "loading": "Đang xử lý...",
+    "error_oauth_failed": "Đăng nhập thất bại. Vui lòng thử lại.",
+    "footer_copyright": "Bản quyền thuộc về Sun* © 2025"
+  },
+  "header": {
+    "nav": {
+      "intro": "Giới thiệu SAA 2025",
+      "awards": "Thông tin giải thưởng",
+      "kudos": "Sun* Kudos",
+      "communityStandards": "Tiêu chuẩn chung"
+    }
+  },
+  "footer": {
+    "copyright": "Bản quyền thuộc về Sun* © 2025"
+  },
+  "homepage": {
+    "countdown": {
+      "comingSoon": "Sắp diễn ra",
+      "time": "Thời gian:",
+      "location": "Địa điểm:",
+      "locationValue": "Nhà hát nghệ thuật quân đội",
+      "broadcast": "Tường thuật trực tiếp tại Group Facebook Sun* Family"
+    },
+    "awardsSection": {
+      "subtitle": "Sun* Annual Awards 2025",
+      "title": "Hệ thống giải thưởng"
+    },
+    "kudosSection": {
+      "tagline": "Phong trào ghi nhận",
+      "title": "Sun* Kudos",
+      "description": "Lần đầu tiên trong khuôn khổ SAA, phong trào ghi nhận diễn ra dành cho tất cả Sunner. Hoạt động được khởi động vào tháng 11/2025, khuyến khích người Sun* chia sẻ những lời ghi nhận, cảm ơn đồng nghiệp trên hệ thống. Đây sẽ là chất liệu để Hội đồng Heads tham khảo trong quá trình lựa chọn người đạt giải.",
+      "cta": "Chi tiết"
+    },
+    "rootFurther": {
+      "p1_1": "Đứng trước bối cảnh thay đổi như vũ bão của thời đại AI và yêu cầu ngày càng cao từ khách hàng, Sun* lựa chọn chiến lược đa dạng hóa năng lực để không chỉ nỗ lực trở thành tinh anh trong lĩnh vực của mình, mà còn hướng đến một cái đích cao hơn, nơi mọi Sunner đều là \"problem-solver\" - chuyên gia trong việc giải quyết mọi vấn đề, tìm lời giải cho mọi bài toán của dự án, khách hàng và xã hội.",
+      "p1_2_before": "Lấy cảm hứng từ sự đa dạng năng lực, khả năng phát triển linh hoạt cùng tinh thần đào sâu để bứt phá trong kỷ nguyên AI,",
+      "p1_2_after": "đã được chọn để trở thành chủ đề chính thức của Lễ trao giải Sun* Annual Awards 2025.",
+      "p1_3_before": "Vượt ra khỏi nét nghĩa bề mặt,",
+      "p1_3_after": "chính là hành trình chúng ta không ngừng vươn xa hơn, cắm rễ mạnh hơn, chạm đến những tầng \"địa chất\" ẩn sâu để tiếp tục tồn tại, vươn lên và nuôi dưỡng đam mê kiến tạo giá trị luôn cháy bỏng của người Sun*. Mượn hình ảnh bộ rễ liên tục đâm sâu vào lòng đất, mạnh mẽ len lỏi qua từng lớp \"trầm tích\" để thẩm thấu những gì tinh tuý nhất, người Sun* cũng đang \"hấp thụ\" dưỡng chất từ thời đại và những thử thách của thị trường để làm mới mình mỗi ngày, mở rộng năng lực và mạnh mẽ \"bén rễ\" vào kỷ nguyên AI - một tầng \"địa chất\" hoàn toàn mới, phức tạp và khó đoán, nhưng cũng hội tụ vô vàn tiềm năng cùng cơ hội.",
+      "quote": "\"A tree with deep roots fears no storm\"",
+      "quoteNote": "(Cây sâu bén rễ, bão giông chẳng nể - Ngạn ngữ Anh)",
+      "p2_1_before": "Trước giông bão, chỉ những tán cây có bộ rễ đủ mạnh mới có thể trụ vững. Một tổ chức với những cá nhân tự tin vào năng lực đa dạng, sẵn sàng kiến tạo và đón nhận thử thách, làm chủ sự thay đổi là tổ chức không chỉ vững vàng trước biến động, mà còn khai thác được mọi lợi thế, chinh phục các thách thức của thời cuộc. Không đơn thuần là tên gọi của chương mới trên hành trình phát triển tổ chức,",
+      "p2_1_after": "còn như một lời cổ vũ, động viên mỗi chúng ta hãy dám tin vào bản thân, dám đào sâu, khai mở mọi tiềm năng, dám phá bỏ giới hạn, dám trở thành phiên bản đa nhiệm và xuất sắc nhất của mình. Bởi trong thời đại AI, đa dạng năng lực và tận dụng sức mạnh thời cuộc chính là điều kiện tiên quyết để trường tồn.",
+      "p2_2_before": "Không ai biết trước ẩn sâu trong \"lòng đất\" của ngành công nghệ và thị trường hiện đại còn biết bao tầng \"địa chất\" bí ẩn. Chỉ biết rằng khi",
+      "p2_2_after": "đã trở thành tinh thần cội rễ, chúng ta sẽ không sợ hãi, mà càng thấy háo hức trước bất cứ vùng vô định nào trên hành trình tiến về phía trước. Vì ta luôn tin rằng, trong chính những miền vô tận đó, là bao điều kỳ diệu và cơ hội vươn mình đang chờ ta."
+    }
+  },
+  "awards": {
+    "keyvisual": {
+      "title": "Hệ thống giải thưởng SAA 2025"
+    },
+    "block": {
+      "quantityLabel": "Số lượng giải thưởng:",
+      "valueLabel": "Giá trị giải thưởng:",
+      "perAward": "cho mỗi giải thưởng",
+      "forIndividual": "cho giải cá nhân",
+      "forTeam": "cho giải tập thể",
+      "or": "Hoặc",
+      "unitIndividual": "Cá nhân",
+      "unitTeam": "Tập thể",
+      "unitIndividualOrTeam": "Cá nhân hoặc tập thể"
+    }
+  },
+  "kudos": {
+    "hero": {
+      "title": "Hệ thống ghi nhận và cảm ơn",
+      "writePlaceholder": "Hôm nay, bạn muốn gửi lời cảm ơn và ghi nhận đến ai?",
+      "searchPlaceholder": "Tìm kiếm profile Sunner"
+    },
+    "sidebar": {
+      "kudosReceived": "Số Kudos bạn nhận được:",
+      "kudosSent": "Số Kudos bạn đã gửi:",
+      "heartsReceived": "Số tim bạn nhận được:",
+      "boxesOpened": "Số Secret Box bạn đã mở:",
+      "boxesUnopened": "Số Secret Box chưa mở:",
+      "openBox": "Mở Secret Box",
+      "recentGiftsTitle": "10 SUNNER NHẬN QUÀ MỚI NHẤT",
+      "noData": "Chưa có dữ liệu.",
+      "receivedGift": "Nhận được {gift}"
+    },
+    "highlight": {
+      "subtitle": "Sun* Annual Awards 2025",
+      "title": "HIGHLIGHT KUDOS",
+      "all": "Tất cả",
+      "hashtag": "Hashtag",
+      "department": "Phòng ban",
+      "clearFilters": "Xóa bộ lọc"
+    },
+    "card": {
+      "anonymous": "Người dùng ẩn danh",
+      "likeAria": "Thích kudos này",
+      "unlikeAria": "Bỏ thích kudos này",
+      "copied": "Đã sao chép!",
+      "copyLink": "Sao chép link"
+    },
+    "spotlight": {
+      "title": "Spotlight Board",
+      "total": "Tổng số Kudos:",
+      "search": "Tìm Sunner...",
+      "noData": "Chưa có dữ liệu...",
+      "viewProfile": "Xem profile của {name}",
+      "received": "Đã nhận một Kudos mới"
+    },
+    "sendDialog": {
+      "title": "Gửi lời cám ơn và ghi nhận đến đồng đội",
+      "receiverLabel": "Người nhận",
+      "searchPlaceholder": "Tìm kiếm",
+      "removeRecipient": "Xóa người nhận",
+      "noResults": "Không tìm thấy kết quả",
+      "titleLabel": "Danh hiệu",
+      "titlePlaceholder": "Dành tặng một danh hiệu cho đồng đội",
+      "titleHint": "Ví dụ: Người truyền động lực cho tôi. Danh hiệu sẽ hiển thị làm tiêu đề Kudos của bạn.",
+      "mentionHint": "Bạn có thể \"@ + tên\" để nhắc tới đồng nghiệp khác",
+      "hashtagLabel": "Hashtag",
+      "hashtagMax": "Tối đa 5",
+      "hashtagMaxSelected": "Đã chọn tối đa",
+      "removeHashtag": "Xóa {tag}",
+      "imageLabel": "Ảnh",
+      "imageMax": "Tối đa 5",
+      "removeImage": "Xóa ảnh {n}",
+      "anonymousLabel": "Gửi lời cám ơn và ghi nhận ẩn danh",
+      "anonymousNamePlaceholder": "Nhập tên ẩn danh (tùy chọn, mặc định: Ẩn danh)",
+      "cancel": "Hủy",
+      "submit": "Gửi",
+      "submitting": "Đang gửi...",
+      "validation": {
+        "receiver": "Vui lòng chọn người nhận",
+        "title": "Danh hiệu không được để trống",
+        "message": "Vui lòng nhập nội dung",
+        "hashtags": "Chọn ít nhất 1 hashtag"
+      }
+    },
+    "secretBox": {
+      "loading": "Đang tải...",
+      "noBoxError": "Không tìm thấy quà nào chưa mở.",
+      "loadError": "Lỗi tải dữ liệu. Vui lòng thử lại.",
+      "waitingText": "Bạn có một phần quà đặc biệt đang chờ!",
+      "openPrompt": "Nhấn mở để khám phá nhé 🎉",
+      "revealing": "Đang mở...",
+      "openBtn": "Mở quà 🎉",
+      "congrats": "Chúc mừng! Hãy đến quầy lễ tân để nhận quà của bạn. 🥰",
+      "close": "Đóng",
+      "openFailed": "Mở quà thất bại. Vui lòng thử lại.",
+      "mysteryGift": "Phần quà bí ẩn"
+    }
+  }
+}

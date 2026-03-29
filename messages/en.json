@@ -1,0 +1,158 @@
+{
+  "languageSelector": {
+    "selectLanguage": "Select language",
+    "options": "Language options",
+    "vi": "Tiếng Việt",
+    "en": "English"
+  },
+  "login": {
+    "hero_line1": "Begin your journey with <b>SAA 2025</b>.",
+    "hero_line2": "Log in to explore!",
+    "button": "LOGIN With Google",
+    "loading": "Processing...",
+    "error_oauth_failed": "Login failed. Please try again.",
+    "footer_copyright": "Copyright © Sun* 2025"
+  },
+  "header": {
+    "nav": {
+      "intro": "SAA 2025 Introduction",
+      "awards": "Award Information",
+      "kudos": "Sun* Kudos",
+      "communityStandards": "Community Standards"
+    }
+  },
+  "footer": {
+    "copyright": "Copyright © Sun* 2025"
+  },
+  "homepage": {
+    "countdown": {
+      "comingSoon": "Coming soon",
+      "time": "Time:",
+      "location": "Venue:",
+      "locationValue": "Military Art Theater",
+      "broadcast": "Live broadcast on Sun* Family Facebook Group"
+    },
+    "awardsSection": {
+      "subtitle": "Sun* Annual Awards 2025",
+      "title": "Award System"
+    },
+    "kudosSection": {
+      "tagline": "Recognition Movement",
+      "title": "Sun* Kudos",
+      "description": "For the first time within SAA, this recognition movement is open to all Sunners. Launched in November 2025, it encourages Sun* members to share compliments and appreciate their colleagues on the system. This will serve as material for the Heads Council to reference during the award selection process.",
+      "cta": "Details"
+    },
+    "rootFurther": {
+      "p1_1": "Facing the rapid changes brought by the AI era and increasingly high expectations from clients, Sun* has chosen a strategy of capability diversification — not only striving to become elite in their respective fields, but also aiming higher, where every Sunner is a \"problem-solver\" — an expert in resolving every challenge, finding solutions for every project, client, and societal issue.",
+      "p1_2_before": "Inspired by diverse capabilities, the ability to develop flexibly, and the spirit of digging deep to break through in the AI era,",
+      "p1_2_after": "was chosen as the official theme of the Sun* Annual Awards 2025.",
+      "p1_3_before": "Beyond its surface meaning,",
+      "p1_3_after": "is the journey of continuously reaching further, rooting stronger, touching the deeply hidden \"geological layers\" to continue to exist, rise, and nurture the ever-burning passion for creating value that defines every Sun* person. Borrowing the image of roots continuously digging deep into the earth, powerfully weaving through each \"sediment\" layer to absorb the most essential nutrients, Sun* people are also \"absorbing\" nourishment from the era and market challenges to renew themselves every day, expanding capabilities and powerfully \"taking root\" into the AI era — a completely new, complex, and unpredictable \"geological layer\", yet one that converges countless potentials and opportunities.",
+      "quote": "\"A tree with deep roots fears no storm\"",
+      "quoteNote": "(An English Proverb)",
+      "p2_1_before": "Before storms, only trees with strong enough roots can stand firm. An organization with individuals who are confident in their diverse capabilities, ready to create and embrace challenges, masters of change — that organization not only stands firm in disruption, but also leverages every advantage and conquers the challenges of the times. Not merely the name of a new chapter in the organization's development journey,",
+      "p2_1_after": "is also a rallying cry, encouraging each of us to dare to believe in ourselves, dare to dig deep, unlock all potential, dare to break limits, and dare to become the most multifaceted and excellent version of ourselves. Because in the AI era, diverse capabilities and leveraging the power of the times are the prerequisite for longevity.",
+      "p2_2_before": "No one knows in advance how many mysterious \"geological layers\" remain deep in the \"earth\" of technology and modern markets. All we know is that when",
+      "p2_2_after": "has become the spirit of our roots, we will not be afraid, but even more excited in the face of any uncharted territory on the journey forward. Because we always believe that within those very infinite realms, countless wonders and opportunities to soar are waiting for us."
+    }
+  },
+  "awards": {
+    "keyvisual": {
+      "title": "SAA 2025 Award System"
+    },
+    "block": {
+      "quantityLabel": "Number of awards:",
+      "valueLabel": "Award value:",
+      "perAward": "per award",
+      "forIndividual": "for individual award",
+      "forTeam": "for team award",
+      "or": "Or",
+      "unitIndividual": "Individual",
+      "unitTeam": "Team",
+      "unitIndividualOrTeam": "Individual or Team"
+    }
+  },
+  "kudos": {
+    "hero": {
+      "title": "Recognition and appreciation system",
+      "writePlaceholder": "Who would you like to thank and recognize today?",
+      "searchPlaceholder": "Search Sunner profile"
+    },
+    "sidebar": {
+      "kudosReceived": "Kudos received:",
+      "kudosSent": "Kudos sent:",
+      "heartsReceived": "Hearts received:",
+      "boxesOpened": "Secret Boxes opened:",
+      "boxesUnopened": "Unopened Secret Boxes:",
+      "openBox": "Open Secret Box",
+      "recentGiftsTitle": "10 LATEST GIFT RECIPIENTS",
+      "noData": "No data yet.",
+      "receivedGift": "Received {gift}"
+    },
+    "highlight": {
+      "subtitle": "Sun* Annual Awards 2025",
+      "title": "HIGHLIGHT KUDOS",
+      "all": "All",
+      "hashtag": "Hashtag",
+      "department": "Department",
+      "clearFilters": "Clear filters"
+    },
+    "card": {
+      "anonymous": "Anonymous user",
+      "likeAria": "Like this kudos",
+      "unlikeAria": "Unlike this kudos",
+      "copied": "Copied!",
+      "copyLink": "Copy link"
+    },
+    "spotlight": {
+      "title": "Spotlight Board",
+      "total": "Total Kudos:",
+      "search": "Search Sunner...",
+      "noData": "No data yet...",
+      "viewProfile": "View {name}'s profile",
+      "received": "Received a new Kudos"
+    },
+    "sendDialog": {
+      "title": "Send kudos to your teammate",
+      "receiverLabel": "Recipient",
+      "searchPlaceholder": "Search",
+      "removeRecipient": "Remove recipient",
+      "noResults": "No results found",
+      "titleLabel": "Title",
+      "titlePlaceholder": "Give your teammate a title",
+      "titleHint": "E.g.: My Motivator. The title will be displayed as your Kudos heading.",
+      "mentionHint": "You can use \"@ + name\" to mention other colleagues",
+      "hashtagLabel": "Hashtag",
+      "hashtagMax": "Max 5",
+      "hashtagMaxSelected": "Maximum reached",
+      "removeHashtag": "Remove {tag}",
+      "imageLabel": "Image",
+      "imageMax": "Max 5",
+      "removeImage": "Remove image {n}",
+      "anonymousLabel": "Send kudos anonymously",
+      "anonymousNamePlaceholder": "Enter anonymous name (optional, default: Anonymous)",
+      "cancel": "Cancel",
+      "submit": "Send",
+      "submitting": "Sending...",
+      "validation": {
+        "receiver": "Please select a recipient",
+        "title": "Title cannot be empty",
+        "message": "Please enter content",
+        "hashtags": "Select at least 1 hashtag"
+      }
+    },
+    "secretBox": {
+      "loading": "Loading...",
+      "noBoxError": "No unopened gifts found.",
+      "loadError": "Error loading data. Please try again.",
+      "waitingText": "You have a special gift waiting!",
+      "openPrompt": "Click to open and discover 🎉",
+      "revealing": "Opening...",
+      "openBtn": "Open gift 🎉",
+      "congrats": "Congratulations! Please come to the reception desk to collect your gift. 🥰",
+      "close": "Close",
+      "openFailed": "Failed to open gift. Please try again.",
+      "mysteryGift": "Mystery Gift"
+    }
+  }
+}

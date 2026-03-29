@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 15" width="20" height="15">
+  <!-- UK Flag - Union Jack -->
+  <rect width="20" height="15" fill="#012169"/>
+  <!-- White diagonals -->
+  <path d="M0,0 L20,15 M20,0 L0,15" stroke="white" stroke-width="3"/>
+  <!-- Red diagonals -->
+  <path d="M0,0 L20,15 M20,0 L0,15" stroke="#C8102E" stroke-width="2"/>
+  <!-- White cross -->
+  <rect x="8" y="0" width="4" height="15" fill="white"/>
+  <rect x="0" y="5.5" width="20" height="4" fill="white"/>
+  <!-- Red cross -->
+  <rect x="9" y="0" width="2" height="15" fill="#C8102E"/>
+  <rect x="0" y="6.5" width="20" height="2" fill="#C8102E"/>
+</svg>

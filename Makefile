@@ -22,6 +22,8 @@ dev-env:
 
 supabase-local:
 	@npx supabase start
+	@echo "Applying pending migrations..."
+	@npx supabase db push --local 2>/dev/null || true
 
 sync-supabase-env:
 	@echo "Fetching Supabase local status..."
